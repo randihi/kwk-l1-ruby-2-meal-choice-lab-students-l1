@@ -17,19 +17,6 @@ end
 def dinner(dinner_food="salmon")
   dinner_food
 
-def breakfast(food="pancakes")
-  food
-end
-
-def lunch(food="salad")
-  food
-end
-
-def dinner(food="tacos")
-  food
-end
- 
- 
  
  # Call the methods with puts and your own arguments here. Like this:
  puts snacks("Swedish fish")
@@ -41,10 +28,6 @@ end
 puts breakfast("pancakes")
 puts lunch("peanut butter")
 puts dinner("broccoli")
-
-puts breakfast("Bacon")
-puts lunch("turkey sandwich")
-puts dinner("steak")
 
  
  # Call your methods without any arguments here
