@@ -5,7 +5,7 @@
  end
  
  # Define breakfast, lunch and dinner methods that return the meal choice passed into them with a default to your favorite.
-<<<<<<< HEAD
+
 def breakfast(breakfast_food="Frosted Flakes")
   breakfast_food
 end
@@ -16,7 +16,7 @@ end
 
 def dinner(dinner_food="salmon")
   dinner_food
-=======
+
 def breakfast(food="pancakes")
   food
 end
@@ -27,7 +27,6 @@ end
 
 def dinner(food="tacos")
   food
->>>>>>> 5800c7d6e39d536c108612ec21d028131c7ec63b
 end
  
  
@@ -38,15 +37,15 @@ end
 
  # call your methods here
 
-<<<<<<< HEAD
+
 puts breakfast("pancakes")
 puts lunch("peanut butter")
 puts dinner("broccoli")
-=======
+
 puts breakfast("Bacon")
 puts lunch("turkey sandwich")
 puts dinner("steak")
->>>>>>> 5800c7d6e39d536c108612ec21d028131c7ec63b
+
  
  # Call your methods without any arguments here
  puts snacks
